@@ -27,3 +27,4 @@ Things you may want to cover:
 # work-github
 チーム開発練習
 >>>>>>> origin/master
+pull request
